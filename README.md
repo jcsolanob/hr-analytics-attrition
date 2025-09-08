@@ -36,7 +36,7 @@ The goal is to identify turnover patterns, understand which profiles are at high
 ---
 
 ## 🛠️ Tech Stack
-- **Python**: Pandas, Matplotlib, Seaborn, Scikit-learn  
+- **Python**: Pandas, Matplotlib, Seaborn 
 - **Canva**  
 
 
